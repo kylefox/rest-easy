@@ -1,4 +1,4 @@
-require_relative "lib/rest/easy/version"
+require_relative "lib/rest_easy/version"
 
 Gem::Specification.new do |spec|
   spec.name        = "rest-easy"

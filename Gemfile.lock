@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rest-easy (0.1.0)
+    rest-easy (0.1.1)
       rails (>= 7.0.6)
 
 GEM
