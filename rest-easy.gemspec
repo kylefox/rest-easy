@@ -2,7 +2,7 @@ require_relative "lib/rest/easy/version"
 
 Gem::Specification.new do |spec|
   spec.name        = "rest-easy"
-  spec.version     = Rest::Easy::VERSION
+  spec.version     = RestEasy::VERSION
   spec.authors     = ["Kyle Fox", "Jed Barlow"]
   spec.email       = ["kylefox@gmail.com", "jed@jedbarlow.ca"]
   spec.homepage    = "https://github.com/kylefox/rest-easy"

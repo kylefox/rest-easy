@@ -1,1 +1,1 @@
-//= link_directory ../stylesheets/rest/easy .css
+//= link_directory ../stylesheets/rest_easy .css

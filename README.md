@@ -1,4 +1,4 @@
-# Rest::Easy
+# RestEasy
 
 Building a REST API — even with Rails — is tedious work. This project aims to eliminate all that tedious work by providing the generic boilerplate functionality that all APIs require so that you can start building out your custom business logic right away.
 

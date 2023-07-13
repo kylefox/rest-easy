@@ -1,2 +1,2 @@
-Rest::Easy::Engine.routes.draw do
+RestEasy::Engine.routes.draw do
 end
